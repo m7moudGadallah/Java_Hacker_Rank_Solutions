@@ -8,3 +8,4 @@
 |[Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true)|[Link](Java_Method_Overriding/Solution.java)|
 |[Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true)|[Link](Java_Method_Overriding2/Solution.java)|
 |[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true)|[Link](Java_Instanceof_Keyword/InstanceOFTutorial.java)|
+|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem?isFullScreen=true)|[Link](Java_Iterator/Main.java)|
